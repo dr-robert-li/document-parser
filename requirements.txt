@@ -1,0 +1,10 @@
+streamlit
+llama_index
+llama-index-llms-openai
+llama-index-embeddings-huggingface
+openai
+os
+tempfile
+PyMuPDF 
+python-docx 
+html2text
